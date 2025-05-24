@@ -40,13 +40,6 @@ def hello():
 #     return 'Hello World! I have been seen {} times.\n'.format(count)
 
 
-# #oepnAPI Key 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
-
-# # import os
-# # import openai
-# # openai.organization = "org-KOnnLWJP5kUmNw0GwuxVT9DV"
-# # # openai.Model.list()
-
 # # import openai
 # # import os
 # # import IPython
